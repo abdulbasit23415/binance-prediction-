@@ -11,6 +11,6 @@
 <br>```os.getenv('variable_name')```
 <br>```uv pip freeze>requirments.txt```
 <hr> how to use it on some other computer 
-<br>```uv pip install -r requirments.txt'''
+<br>```uv pip install -r requirments.txt```
 
 
