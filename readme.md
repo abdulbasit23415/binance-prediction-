@@ -1,4 +1,4 @@
-# NewsApp using __NewYork Times__ API 
+# Binance price prediction real time project
 ## Requirements
 1. ## uv venv(Creates virtual Enviroment)
 2. ## uv pip install streamlit
